@@ -1,6 +1,6 @@
-Language: [English](#english) | [中文](README_zh.md)
-
 # Feature Dev
+
+Language: [English](#english) | [中文](README_zh.md)
 
 A **Knowledge-Driven Development (KDD)** AI Coding skill for Claude Code. Before writing any code, it reads your team's project knowledge from an Obsidian vault — architecture, conventions, data schemas, historical decisions — so every implementation decision is grounded in real business context, not guesswork.
 
